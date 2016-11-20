@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
     spec.name         = 'Apodimark'
     spec.version      = '0.4.0'
-    spec.osx.deployment_target = "10.12"
+    spec.osx.deployment_target = "10.11"
 
     spec.summary      = 'Fast, flexible Markdown parser in Swift'
     spec.author       = 'Loïc Lecrenier'
